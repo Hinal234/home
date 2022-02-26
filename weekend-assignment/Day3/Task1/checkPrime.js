@@ -13,9 +13,12 @@ function checkPrime(){
             }
         }
         if(isPrime){
-            console.log("number is prime");
+            //console.log("number is prime");
+            document.write("number is Prime");
+
         }else{
-            console.log("number is not Prime");
+            //console.log("number is not Prime");
+            document.write("number is not Prime");
         }
     }
 

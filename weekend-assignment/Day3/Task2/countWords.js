@@ -6,6 +6,7 @@ function countWords(){
         count++;
     }
     console.log(count);
+    document.write(count);
 
 
 }
