@@ -1,0 +1,8 @@
+C:\hinaL\Home\C#\C_Sharp_OOP\C_Sharp_OOP\bin\Debug\C_Sharp_OOP.exe.config
+C:\hinaL\Home\C#\C_Sharp_OOP\C_Sharp_OOP\bin\Debug\C_Sharp_OOP.exe
+C:\hinaL\Home\C#\C_Sharp_OOP\C_Sharp_OOP\bin\Debug\C_Sharp_OOP.pdb
+C:\hinaL\Home\C#\C_Sharp_OOP\C_Sharp_OOP\obj\Debug\C_Sharp_OOP.csproj.AssemblyReference.cache
+C:\hinaL\Home\C#\C_Sharp_OOP\C_Sharp_OOP\obj\Debug\C_Sharp_OOP.csproj.SuggestedBindingRedirects.cache
+C:\hinaL\Home\C#\C_Sharp_OOP\C_Sharp_OOP\obj\Debug\C_Sharp_OOP.csproj.CoreCompileInputs.cache
+C:\hinaL\Home\C#\C_Sharp_OOP\C_Sharp_OOP\obj\Debug\C_Sharp_OOP.exe
+C:\hinaL\Home\C#\C_Sharp_OOP\C_Sharp_OOP\obj\Debug\C_Sharp_OOP.pdb

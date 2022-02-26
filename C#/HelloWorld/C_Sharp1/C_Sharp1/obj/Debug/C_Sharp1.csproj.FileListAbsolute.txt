@@ -1,0 +1,8 @@
+C:\hinaL\Home\C#\HelloWorld\C_Sharp1\C_Sharp1\bin\Debug\C_Sharp1.exe.config
+C:\hinaL\Home\C#\HelloWorld\C_Sharp1\C_Sharp1\bin\Debug\C_Sharp1.exe
+C:\hinaL\Home\C#\HelloWorld\C_Sharp1\C_Sharp1\bin\Debug\C_Sharp1.pdb
+C:\hinaL\Home\C#\HelloWorld\C_Sharp1\C_Sharp1\obj\Debug\C_Sharp1.csproj.AssemblyReference.cache
+C:\hinaL\Home\C#\HelloWorld\C_Sharp1\C_Sharp1\obj\Debug\C_Sharp1.csproj.SuggestedBindingRedirects.cache
+C:\hinaL\Home\C#\HelloWorld\C_Sharp1\C_Sharp1\obj\Debug\C_Sharp1.csproj.CoreCompileInputs.cache
+C:\hinaL\Home\C#\HelloWorld\C_Sharp1\C_Sharp1\obj\Debug\C_Sharp1.exe
+C:\hinaL\Home\C#\HelloWorld\C_Sharp1\C_Sharp1\obj\Debug\C_Sharp1.pdb
