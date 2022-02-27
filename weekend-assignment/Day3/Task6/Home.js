@@ -7,6 +7,13 @@ function contact(){
     console.log(firstname);
     console.log(lastname);
     console.log(email);
-    console.log(subject)
+    console.log(subject);
+
+    var count=0;
+function cart(){
+    count++;
+    console.log(count);
+    document.getElementById("cart").innerHTML=count;
+}
 
 }
